@@ -1,0 +1,42 @@
+# Vivado / Xilinx generated files
+*.jou
+*.log
+*.str
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/bd/
+*.gen/
+*.tmp/
+*.wdb
+*.pb
+*.dcp
+*.bit
+*.ltx
+
+# Simulation output
+*.vcd
+*.fst
+*.ghw
+*.vvp
+*.out
+*.dump
+
+# MIPS / assembly generated files
+*.class
+*.o
+*.obj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
